@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80" alt="Banner" style="width:100%;max-width:900px;" />
-</p>
 
-<h1 align="center">Hi, I'm Ammar Hussein 👋</h1>
+<h1 align="center">Hi, I'm Ammar 👋</h1>
 
 <p align="center">
   <b>Software Engineer | Cloud-Native Developer | Biochemist-in-Spirit</b>

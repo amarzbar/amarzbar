@@ -1,5 +1,21 @@
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/58681233?s=400&u=9dbf53dad1226181136a357be5a9043918d1f6d1&v=4"  />
+</div>
 
-<h1 align="center">Hi, I'm Ammar 👋</h1>
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/ahusse45"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+   <a href="https://www.youtube.com/@amarzbar_"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
+   <a href="https://www.twitter.com/@amarzbar_"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+###
+
+<h1 align="center">hey there 👋 My name is Ammar</h1>
+
 
 <p align="center">
   <b>Software Engineer | Cloud-Native Developer | Biochemist-in-Spirit</b>

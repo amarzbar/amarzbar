@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 My name is Ammar</h1>
+<h1 align="center">hey there 👋 my name is Ammar</h1>
 
 
 <p align="center">

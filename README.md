@@ -1,13 +1,11 @@
 <p align="center">
-  <!-- Banner image, can be replaced with a personalized one later -->
   <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1200&q=80" alt="Banner" style="width:100%;max-width:900px;" />
 </p>
 
-<h1 align="center">Hi, I'm amarzbar 👋</h1>
+<h1 align="center">Hi, I'm Ammar Hussein 👋</h1>
 
 <p align="center">
-  <b>Software Engineer</b> <br>
-  <i>NextJS, MongoDB, Spring, NestJS, GCP/AWS, React Native, SQLite, Postgres, SSMS, VB.NET, C#</i>
+  <b>Software Engineer | Cloud-Native Developer | Biochemist-in-Spirit</b>
 </p>
 
 <p align="center">
@@ -28,12 +26,50 @@
 
 ---
 
+### 👋 Who am I?
+
+Hello! I'm Ammar, a software engineer with a deep love for building scalable, cloud-native applications—especially on AWS and GCP. My journey blends a Computer Science & Biochemistry background (Western University) with hands-on experience in backend, frontend, and everything in between. I enjoy solving complex system problems and taking a practical, analytical approach to software.
+
+---
+
+### 🛠️ What I Do
+
+- I build containerized solutions with Docker & Kubernetes
+- Experienced across the stack: Spring Boot, MongoDB, SQL, React, React Native, NestJS, REST, GraphQL & more
+- Advocate for Agile (SCRUM), clean code, and solid developer documentation
+- Database wrangler: MongoDB, PostgreSQL, SQLite, and old-school SSMS
+- I help teams move fast and ship reliable code with CI/CD, testing, and automation
+
+---
+
+### 💡 Key Skills
+
+- Full-stack development
+- Cloud computing & containerization
+- Database management
+- Agile methodologies (SCRUM)
+- Team leadership & project management
+- Software testing & CI/CD
+
+---
+
+### 🎓 Education
+
+**Honors Double Major in Computer Science & Biochemistry**
+<br>
+Western University (2018 – 2024)
+
+- Software Engineering, Distributed Systems, Bioinformatics, Algorithms, Databases, AI, and more
+
+---
+
 ### 👀 Fun fact
 
 I have eye freckles!
 
 ---
 
-### 🚀 Check out my pinned projects for the stuff I'm most proud of!
+### 🚀 Stuff I'm proud of
 
-<!-- Social/contact icons can go here later if you want -->
+Check out my pinned projects for the things I think are worth showing off.
+

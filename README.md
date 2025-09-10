@@ -1,10 +1,4 @@
 <div align="center">
-  <style>
-    @keyframes bubble {
-      0%,100% { transform: scale(1); }
-      50% { transform: scale(1.1); }
-    }
-  </style>
   <img height="150"
        src="https://avatars.githubusercontent.com/u/58681233?s=400&u=9dbf53dad1226181136a357be5a9043918d1f6d1&v=4"
        style="border-radius:50%; animation:bubble 2s infinite ease-in-out;" />

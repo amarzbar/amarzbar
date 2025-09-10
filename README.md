@@ -1,8 +1,9 @@
-<div align="center">
-  <img height="150"
-       src="https://avatars.githubusercontent.com/u/58681233?s=400&u=9dbf53dad1226181136a357be5a9043918d1f6d1&v=4"
-       style="border-radius:50%; animation:bubble 2s infinite ease-in-out;" />
-</div>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/58681233?s=400&u=9dbf53dad1226181136a357be5a9043918d1f6d1&v=4"
+       height="150"
+       style="border-radius:50%;" />
+</p>
+
 
 ###
 

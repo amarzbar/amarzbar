@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 my name is marz</h1>
+<h1 align="center">hey there! welcome to my profile</h1>
 
 
 <p align="center">

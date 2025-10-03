@@ -35,7 +35,7 @@
 
 ### 👋 Who am I?
 
-Hello! I'm marz, a software engineer with a deep love for building scalable, cloud-native applications—especially on AWS and GCP. My journey blends a Computer Science & Biochemistry background (Western University) with hands-on experience in backend, frontend, and everything in between. I enjoy solving complex system problems and taking a practical, analytical approach to software.
+Hello! I'm Ammar, a software engineer with a deep love for building scalable, cloud-native applications—especially on AWS and GCP. My journey blends a Computer Science & Biochemistry background (Western University) with hands-on experience in backend, frontend, and everything in between. I enjoy solving complex system problems and taking a practical, analytical approach to software.
 
 ---
 

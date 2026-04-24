@@ -59,25 +59,5 @@ Hello! I'm Ammar, a software engineer with a deep love for building scalable, cl
 - Team leadership & project management
 - Software testing & CI/CD
 
----
 
-### 🎓 Education
-
-**Honors Double Major in Computer Science & Biochemistry**
-<br>
-Western University (2018 – 2024)
-
-- Software Engineering, Distributed Systems, Bioinformatics, Algorithms, Databases, AI, and more
-
----
-
-### 👀 Fun fact
-
-I have eye freckles!
-
----
-
-### 🚀 Stuff I'm proud of
-
-Check out my pinned projects for the things I think are worth showing off.
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=amarzbar)](https://github.com/anuraghazra/github-readme-stats)

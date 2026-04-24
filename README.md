@@ -18,7 +18,7 @@
   <b>Software Engineer | Cloud-Native Developer | Biochemist-in-Spirit</b>
 </p>
 
-<p align="center">
+<p align="">
   <!-- Tech stack icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>

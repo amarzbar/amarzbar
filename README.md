@@ -60,4 +60,3 @@ Hello! I'm Ammar, a software engineer with a deep love for building scalable, cl
 - Software testing & CI/CD
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=amarzbar)](https://github.com/anuraghazra/github-readme-stats)
